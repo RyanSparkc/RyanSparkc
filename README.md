@@ -2,6 +2,8 @@
 
 **Frontend Developer**
 
+Turning ideas into interactive experiences
+
 ---
 
 ### 🛠 Tech Stack
